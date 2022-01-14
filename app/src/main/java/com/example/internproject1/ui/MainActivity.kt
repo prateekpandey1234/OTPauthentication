@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
 
         //hello good person how re you today
 //        yo bro how are you
+        //nigga whata rte doing
     }
 }
