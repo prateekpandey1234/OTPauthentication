@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 
         println("you are not a good person")
 
+        //hello good person how re you today
 //        yo bro how are you
     }
 }
