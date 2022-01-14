@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         //your a very good person
 
         println("you are not a good person")
-
+//helloo brodff ,fgk sffjkfkjkijebf
         //hello good person how re you today
 //        yo bro how are you
         //nigga whata rte doing
